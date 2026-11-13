@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            background-color: aqua;
+            color:white;
+            font-family:comic sans Ms",sans-serif;
+        }
+        h2{
+            background-color: orangered;
+            color: white;
+
+      }
+      h3{
+        background-color: black;
+        color: aliceblue;
+      }  
+    </style>
+</head>
+<body>
+    <h1>welcome to ui programming</h1>
+    <h2>welcome to ui programming</h2>
+    <h3>welcome to ui programming</h3>
+    <h4>welcome to ui programming</h4>
+    <h5>welcome to ui programming</h5>
+    <h6>welcome to ui programming</h6>
+</body>
+</html>
